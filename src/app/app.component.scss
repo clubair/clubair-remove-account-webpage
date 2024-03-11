@@ -1,0 +1,32 @@
+/* account-deletion.component.css */
+
+.container-instructions {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+}
+
+.app-logo {
+    max-width: 40px;
+}
+
+.instructions,
+.screenshots,
+.design-info,
+.thoroughness {
+    margin-top: 20px;
+}
+
+.screenshot {
+    margin-top: 10px;
+}
+
+.container-image {
+    background-color: rgb(238, 238, 238);
+    .illustration {
+        max-width: 100%;
+        height: auto;
+    }
+}
